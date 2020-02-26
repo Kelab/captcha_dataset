@@ -3,7 +3,7 @@ import os
 import hashlib
 
 # 图片路径
-root = r"./temp"
+root = r"../temp"
 all_files = os.listdir(root)
 
 for file in all_files:
